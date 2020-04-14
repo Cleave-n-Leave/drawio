@@ -1,1 +1,205 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T14:15:41.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="4yrByuNnWzWhaH7WKTAE" version="12.9.12" type="github"><diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-14T15:38:07.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="bZgzCORIm4tHpGoL9WOg" version="12.9.12" type="github">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="650" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="677b7b8949515195-2" value="TSSW Home Page" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=28;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;rounded=0;labelBackgroundColor=none;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="95" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-4" value="Topic 1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="780" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-5" value="Topic 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="860" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-6" value="Topic 3" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="930" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-7" value="Topic 4" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="1000" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="677b7b8949515195-9" value="" style="line;strokeWidth=1;html=1;rounded=0;shadow=0;labelBackgroundColor=none;fillColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;align=center;comic=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="140" width="1060" height="10" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://github.com/lsst-ts/ts_scheduler" id="677b7b8949515195-16">
+          <mxCell style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
+            <mxGeometry x="40" y="350" width="580" height="640" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-2" value="Introductory Welcome paragraph" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="230" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-6" value="How to navigate" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
+          <mxGeometry x="50" y="230" width="410" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-7" value="Software Package tree" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-8" value="Vera Rubin Observatory" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="365" width="30" height="615" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-11" value="Aux Tel" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="365" width="30" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-12" value="Main Telescope" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="570" width="30" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-13" value="ATDome" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="365" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-14" value="AuxTel Calibration" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="460" width="30" height="100" as="geometry" />
+        </mxCell>
+        <UserObject label="https://github.com/lsst-ts/ts_ATDomeTrajectory" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-16">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="365" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_ATDome&quot;&gt;https://github.com/lsst-ts/ts_ATDome&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-17">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="397.5" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_sallv_AtDome&quot;&gt;https://github.com/lsst-ts/ts_sallv_AtDome&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-18">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="425" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-19" value="MTMount" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="660" width="30" height="170" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://gitlab.tekniker.es/aut/projects/3151-LSST/LabVIEWCode/PXIController&quot;&gt;https://gitlab.tekniker.es/aut/projects/3151-LSST/LabVIEWCode/PXIController&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="690" width="440" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://gitlab.tekniker.es/aut/projects/3151-LSST/hil/speedgoat/speedgoatmanager&quot;&gt;https://gitlab.tekniker.es/aut/projects/3151-LSST/hil/speedgoat/speedgoatmanager&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-24">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="770" width="440" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://gitlab.tekniker.es/aut/projects/3151-LSST/LabVIEWCode/PXIComm_NSV&quot;&gt;https://gitlab.tekniker.es/aut/projects/3151-LSST/LabVIEWCode/PXIComm_NSV&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-25">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="810" width="440" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://gitlab.tekniker.es/aut/projects/3151-LSST/LabVIEWCode/HMIComputers&quot;&gt;https://gitlab.tekniker.es/aut/projects/3151-LSST/LabVIEWCode/HMIComputers&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-26">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="730" width="440" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_MTMount&quot;&gt;https://github.com/lsst-ts/ts_MTMount&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-27">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="660" width="440" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_electrometer2&quot;&gt;https://github.com/lsst-ts/ts_electrometer2&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-29">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="460" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_FiberSpectrograph&quot;&gt;https://github.com/lsst-ts/ts_FiberSpectrograph&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-30">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="520" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_AtWhiteLightChiller&quot;&gt;https://github.com/lsst-ts/ts_AtWhiteLightChiller&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-31">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="545" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_atmonochromator&quot;&gt;https://github.com/lsst-ts/ts_atmonochromator&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-32">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="490" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-33" value="Scheduler" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="840" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-34" value="Observatory Control System&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="840" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wWp5y2XCNyQGihxI69Zn-35" value="L.O.V.E" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="920" width="30" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/LOVE-manager&quot;&gt;https://github.com/lsst-ts/LOVE-manager&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-36">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="920" width="440" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/LOVE-manager&quot;&gt;https://github.com/lsst-ts/LOVE-frontend&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-37">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="942.5" width="440" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/LOVE-manager&quot;&gt;https://github.com/lsst-ts/LOVE-producer&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="wWp5y2XCNyQGihxI69Zn-38">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="170" y="965" width="440" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="R_ak1PxugeGt-QiQ7oEQ-1" value="M1M3" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="570" width="30" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_AtWhiteLightChiller&quot;&gt;https://github.com/lsst-ts/ts_M1M3ThermalFPGA&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="R_ak1PxugeGt-QiQ7oEQ-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="170" y="570" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://github.com/lsst-ts/ts_m1m3supportsimulator" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="R_ak1PxugeGt-QiQ7oEQ-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="170" y="600" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://github.com/lsst-ts/ts_M1M3Thermal" link="https://github.com/lsst-ts/ts_M1M3Thermal" id="R_ak1PxugeGt-QiQ7oEQ-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="170" y="630" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_AtWhiteLightChiller&quot;&gt;https://github.com/lsst-ts/ts_schedulerConfig&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="R_ak1PxugeGt-QiQ7oEQ-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="170" y="867.5" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;a href=&quot;https://github.com/lsst-ts/ts_scheduler&quot;&gt;https://github.com/lsst-ts/ts_scheduler&lt;/a&gt;" link="https://github.com/lsst-ts/ts_ATDomeTrajectory" id="R_ak1PxugeGt-QiQ7oEQ-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="170" y="840" width="280" height="15" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="R_ak1PxugeGt-QiQ7oEQ-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=4;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1000" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R_ak1PxugeGt-QiQ7oEQ-9" value="Any items listed here shall be source code software repositories" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="990" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R_ak1PxugeGt-QiQ7oEQ-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=4;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="130" y="995" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R_ak1PxugeGt-QiQ7oEQ-11" value="Any items listed here will be links to User Guies, also known as technotes." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1040" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R_ak1PxugeGt-QiQ7oEQ-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=4;shape=mxgraph.mockup.markup.curlyBrace;strokeColor=#999999;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="R_ak1PxugeGt-QiQ7oEQ-14" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=SE;callStyle=line;fontSize=17;fontColor=#666666;align=right;verticalAlign=bottom;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1015" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R_ak1PxugeGt-QiQ7oEQ-16" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=SE;callStyle=line;fontSize=17;fontColor=#666666;align=right;verticalAlign=bottom;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1030" width="90" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R_ak1PxugeGt-QiQ7oEQ-17" value="Any items listed here are abstract and help communicate the organization of the TSSW software producs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1100" width="150" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
